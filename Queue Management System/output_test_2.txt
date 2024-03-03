@@ -1,0 +1,10787 @@
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 1
+
+
+Queue 1 at the time 1
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 1
+
+
+Queue 1 at the time 1
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 5
+
+
+Queue 1 at the time 5
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 5
+
+
+Queue 1 at the time 5
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 5
+
+
+Queue 1 at the time 5
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 5
+
+
+Queue 1 at the time 5
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 5
+
+
+Queue 1 at the time 5
+
+
+Queue 2 at the time 2
+
+
+Queue 2 at the time 2
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 5
+
+
+Queue 1 at the time 5
+
+
+Queue 2 at the time 2
+
+
+Queue 2 at the time 2
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 5
+
+
+Queue 1 at the time 5
+
+
+Queue 2 at the time 2
+
+
+Queue 2 at the time 2
+
+
+Queue 3 at the time 3
+
+
+Queue 3 at the time 3
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 5
+
+
+Queue 1 at the time 5
+
+
+Queue 2 at the time 2
+
+
+Queue 2 at the time 2
+
+
+Queue 3 at the time 3
+
+
+Queue 3 at the time 3
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 1 at the time 5
+
+
+Queue 1 at the time 5
+
+
+Queue 2 at the time 1
+
+
+Queue 2 at the time 1
+
+
+Queue 3 at the time 3
+
+
+Queue 3 at the time 3
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 5
+
+
+Queue 1 at the time 5
+
+
+Queue 2 at the time 1
+
+
+Queue 2 at the time 1
+
+
+Queue 3 at the time 3
+
+
+Queue 3 at the time 3
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 3
+
+
+Queue 3 at the time 3
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 3
+
+
+Queue 3 at the time 3
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 1 at the time 5
+
+
+Queue 1 at the time 5
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 5
+
+
+Queue 1 at the time 5
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 5
+
+
+Queue 1 at the time 5
+
+
+Queue 2 at the time 4
+
+
+Queue 2 at the time 4
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 5
+
+
+Queue 1 at the time 5
+
+
+Queue 2 at the time 4
+
+
+Queue 2 at the time 4
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 5
+
+
+Queue 1 at the time 5
+
+
+Queue 2 at the time 4
+
+
+Queue 2 at the time 4
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 5
+
+
+Queue 4 at the time 5
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 5
+
+
+Queue 1 at the time 5
+
+
+Queue 2 at the time 4
+
+
+Queue 2 at the time 4
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 5
+
+
+Queue 4 at the time 5
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 5
+
+
+Queue 1 at the time 5
+
+
+Queue 2 at the time 8
+Customer 9 ~13 ~ 4
+
+
+Queue 1 at the time 5
+
+
+Queue 2 at the time 8
+Customer 9 ~13 ~ 4
+
+
+Queue 3 at the time 7
+
+
+Queue 1 at the time 5
+
+
+Queue 3 at the time 7
+
+
+Queue 2 at the time 8
+Customer 9 ~13 ~ 4
+
+
+Queue 2 at the time 8
+Customer 9 ~13 ~ 4
+
+
+Queue 4 at the time 5
+
+
+Queue 4 at the time 5
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 5 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 4 at the time 5
+
+
+Queue 4 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 1 at the time 5
+
+
+Queue 1 at the time 5
+
+
+Queue 2 at the time 8
+Customer 9 ~13 ~ 4
+
+
+Queue 2 at the time 8
+Customer 9 ~13 ~ 4
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 5
+
+
+Queue 4 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 1 at the time 9
+Customer 7 ~14 ~ 4
+
+
+Queue 1 at the time 9
+Customer 7 ~14 ~ 4
+
+
+Queue 2 at the time 8
+Customer 9 ~13 ~ 4
+
+
+Queue 2 at the time 8
+Customer 9 ~13 ~ 4
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 5
+
+
+Queue 4 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 1 at the time 4
+
+
+Queue 2 at the time 4
+
+
+Queue 1 at the time 4
+
+
+Queue 1 at the time 4
+
+
+Queue 2 at the time 4
+
+
+Queue 2 at the time 4
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 5
+
+
+Queue 4 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 1 at the time 6
+Customer 8 ~15 ~ 2
+
+
+Queue 1 at the time 6
+Customer 8 ~15 ~ 2
+
+
+Queue 2 at the time 4
+
+
+Queue 2 at the time 4
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 5
+
+
+Queue 4 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 1 at the time 6
+Customer 8 ~15 ~ 2
+
+
+Queue 1 at the time 6
+Customer 8 ~15 ~ 2
+
+
+Queue 2 at the time 4
+
+
+Queue 2 at the time 4
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 5
+
+
+Queue 4 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 1 at the time 6
+Customer 8 ~15 ~ 2
+
+
+Queue 1 at the time 6
+Customer 8 ~15 ~ 2
+
+
+Queue 2 at the time 8
+Customer 21 ~16 ~ 4
+
+
+Queue 2 at the time 8
+Customer 21 ~16 ~ 4
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 9
+Customer 23 ~16 ~ 4
+
+
+Queue 4 at the time 9
+Customer 23 ~16 ~ 4
+
+
+Queue 5 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 4 at the time 4
+
+
+Queue 1 at the time 6
+Customer 8 ~15 ~ 2
+
+
+Queue 1 at the time 6
+Customer 8 ~15 ~ 2
+
+
+Queue 2 at the time 8
+Customer 21 ~16 ~ 4
+
+
+Queue 2 at the time 8
+Customer 21 ~16 ~ 4
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 4
+
+
+Queue 4 at the time 4
+
+
+Queue 5 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 1 at the time 6
+Customer 8 ~15 ~ 2
+
+
+Queue 1 at the time 6
+Customer 8 ~15 ~ 2
+
+
+Queue 2 at the time 8
+Customer 21 ~16 ~ 4
+
+
+Queue 2 at the time 8
+Customer 21 ~16 ~ 4
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 9
+Customer 44 ~17 ~ 5
+
+
+Queue 4 at the time 9
+Customer 44 ~17 ~ 5
+
+
+Queue 5 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 6
+Customer 8 ~15 ~ 2
+
+
+Queue 1 at the time 6
+Customer 8 ~15 ~ 2
+
+
+Queue 2 at the time 8
+Customer 21 ~16 ~ 4
+
+
+Queue 2 at the time 8
+Customer 21 ~16 ~ 4
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 9
+Customer 44 ~17 ~ 5
+
+
+Queue 4 at the time 9
+Customer 44 ~17 ~ 5
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 6
+Customer 8 ~15 ~ 2
+
+
+Queue 1 at the time 6
+Customer 8 ~15 ~ 2
+
+
+Queue 2 at the time 8
+Customer 21 ~16 ~ 4
+
+
+Queue 2 at the time 8
+Customer 21 ~16 ~ 4
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 9
+Customer 44 ~17 ~ 5
+
+
+Queue 4 at the time 9
+Customer 44 ~17 ~ 5
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 2
+
+
+Queue 2 at the time 4
+
+
+Queue 3 at the time 0
+
+
+Queue 1 at the time 2
+
+
+Queue 1 at the time 2
+
+
+Queue 2 at the time 4
+
+
+Queue 2 at the time 4
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 9
+Customer 44 ~17 ~ 5
+
+
+Queue 4 at the time 9
+Customer 44 ~17 ~ 5
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 6
+Customer 43 ~19 ~ 4
+
+
+Queue 1 at the time 6
+Customer 43 ~19 ~ 4
+
+
+Queue 2 at the time 4
+
+
+Queue 2 at the time 4
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 9
+Customer 44 ~17 ~ 5
+
+
+Queue 4 at the time 9
+Customer 44 ~17 ~ 5
+
+
+Queue 5 at the time 2
+Customer 35 ~19 ~ 1
+
+
+Queue 5 at the time 2
+Customer 35 ~19 ~ 1
+
+
+Queue 1 at the time 6
+Customer 43 ~19 ~ 4
+
+
+Queue 1 at the time 6
+Customer 43 ~19 ~ 4
+
+
+Queue 2 at the time 4
+
+
+Queue 2 at the time 4
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 9
+Customer 44 ~17 ~ 5
+
+
+Queue 4 at the time 9
+Customer 44 ~17 ~ 5
+
+
+Queue 5 at the time 2
+Customer 35 ~19 ~ 1
+
+
+Queue 5 at the time 2
+Customer 35 ~19 ~ 1
+
+
+Queue 5 at the time 1
+
+
+Queue 1 at the time 4
+
+
+Queue 1 at the time 4
+
+
+Queue 1 at the time 4
+
+
+Queue 2 at the time 4
+
+
+Queue 2 at the time 4
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 9
+Customer 44 ~17 ~ 5
+
+
+Queue 4 at the time 9
+Customer 44 ~17 ~ 5
+
+
+Queue 5 at the time 1
+
+
+Queue 4 at the time 5
+
+
+Queue 5 at the time 1
+
+
+Queue 1 at the time 4
+
+
+Queue 1 at the time 4
+
+
+Queue 2 at the time 4
+
+
+Queue 2 at the time 4
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 5
+
+
+Queue 4 at the time 5
+
+
+Queue 5 at the time 1
+
+
+Queue 5 at the time 1
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 4
+
+
+Queue 1 at the time 4
+
+
+Queue 2 at the time 4
+
+
+Queue 2 at the time 4
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 5
+
+
+Queue 4 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 1 at the time 4
+
+
+Queue 1 at the time 4
+
+
+Queue 2 at the time 4
+
+
+Queue 2 at the time 4
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 5
+
+
+Queue 4 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 2 at the time 0
+
+
+Queue 1 at the time 10
+Customer 3 ~22 ~ 1
+Customer 17 ~22 ~ 5
+
+
+Queue 1 at the time 10
+Customer 3 ~22 ~ 1
+Customer 17 ~22 ~ 5
+
+
+Queue 2 at the time 6
+
+
+Queue 2 at the time 6
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 5
+
+
+Queue 4 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 1 at the time 10
+Customer 3 ~22 ~ 1
+Customer 17 ~22 ~ 5
+
+
+Queue 1 at the time 10
+Customer 3 ~22 ~ 1
+Customer 17 ~22 ~ 5
+
+
+Queue 2 at the time 6
+
+
+Queue 2 at the time 6
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 5
+
+
+Queue 4 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 1 at the time 10
+Customer 3 ~22 ~ 1
+Customer 17 ~22 ~ 5
+
+
+Queue 1 at the time 10
+Customer 3 ~22 ~ 1
+Customer 17 ~22 ~ 5
+
+
+Queue 2 at the time 6
+
+
+Queue 2 at the time 6
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 5
+
+
+Queue 4 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 1 at the time 10
+Customer 3 ~22 ~ 1
+Customer 17 ~22 ~ 5
+
+
+Queue 1 at the time 10
+Customer 3 ~22 ~ 1
+Customer 17 ~22 ~ 5
+
+
+Queue 2 at the time 6
+
+
+Queue 2 at the time 6
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 5
+
+
+Queue 4 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 1 at the time 6
+Customer 17 ~22 ~ 5
+
+
+Queue 1 at the time 6
+Customer 17 ~22 ~ 5
+
+
+Queue 1 at the time 6
+Customer 17 ~22 ~ 5
+
+
+Queue 2 at the time 6
+
+
+Queue 2 at the time 6
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 5
+
+
+Queue 4 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 1 at the time 6
+Customer 17 ~22 ~ 5
+
+
+Queue 1 at the time 6
+Customer 17 ~22 ~ 5
+
+
+Queue 2 at the time 6
+
+
+Queue 2 at the time 6
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 5
+
+
+Queue 4 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 1 at the time 5
+
+
+Queue 4 at the time 0
+
+
+Queue 1 at the time 5
+
+
+Queue 1 at the time 5
+
+
+Queue 2 at the time 6
+
+
+Queue 2 at the time 6
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 8
+Customer 39 ~25 ~ 7
+
+
+Queue 4 at the time 8
+Customer 39 ~25 ~ 7
+
+
+Queue 5 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 1 at the time 5
+
+
+Queue 1 at the time 5
+
+
+Queue 2 at the time 6
+
+
+Queue 2 at the time 6
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 8
+Customer 39 ~25 ~ 7
+
+
+Queue 4 at the time 8
+Customer 39 ~25 ~ 7
+
+
+Queue 5 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 3 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 4 at the time 7
+
+
+Queue 1 at the time 5
+
+
+Queue 1 at the time 5
+
+
+Queue 2 at the time 6
+
+
+Queue 2 at the time 6
+
+
+Queue 3 at the time 3
+
+
+Queue 3 at the time 3
+
+
+Queue 4 at the time 7
+
+
+Queue 4 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 1 at the time 5
+
+
+Queue 1 at the time 5
+
+
+Queue 2 at the time 6
+
+
+Queue 2 at the time 6
+
+
+Queue 3 at the time 3
+
+
+Queue 3 at the time 3
+
+
+Queue 4 at the time 7
+
+
+Queue 4 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 1 at the time 5
+
+
+Queue 1 at the time 5
+
+
+Queue 2 at the time 6
+
+
+Queue 2 at the time 6
+
+
+Queue 3 at the time 3
+
+
+Queue 3 at the time 3
+
+
+Queue 4 at the time 7
+
+
+Queue 4 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 1 at the time 5
+
+
+Queue 1 at the time 5
+
+
+Queue 2 at the time 6
+
+
+Queue 2 at the time 6
+
+
+Queue 3 at the time 3
+
+
+Queue 3 at the time 3
+
+
+Queue 4 at the time 7
+
+
+Queue 4 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 2 at the time 0
+
+
+Queue 1 at the time 5
+
+
+Queue 1 at the time 5
+
+
+Queue 2 at the time 8
+Customer 27 ~28 ~ 4
+
+
+Queue 2 at the time 8
+Customer 27 ~28 ~ 4
+
+
+Queue 3 at the time 9
+Customer 13 ~28 ~ 6
+
+
+Queue 3 at the time 9
+Customer 13 ~28 ~ 6
+
+
+Queue 4 at the time 7
+
+
+Queue 4 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 1 at the time 5
+
+
+Queue 1 at the time 5
+
+
+Queue 2 at the time 8
+Customer 27 ~28 ~ 4
+
+
+Queue 2 at the time 8
+Customer 27 ~28 ~ 4
+
+
+Queue 3 at the time 9
+Customer 13 ~28 ~ 6
+
+
+Queue 3 at the time 9
+Customer 13 ~28 ~ 6
+
+
+Queue 4 at the time 7
+
+
+Queue 4 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 3 at the time 6
+
+
+Queue 1 at the time 8
+Customer 22 ~29 ~ 3
+
+
+Queue 1 at the time 8
+Customer 22 ~29 ~ 3
+
+
+Queue 2 at the time 8
+Customer 27 ~28 ~ 4
+
+
+Queue 2 at the time 8
+Customer 27 ~28 ~ 4
+
+
+Queue 3 at the time 6
+
+
+Queue 3 at the time 6
+
+
+Queue 4 at the time 7
+
+
+Queue 4 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 1 at the time 8
+Customer 22 ~29 ~ 3
+
+
+Queue 1 at the time 8
+Customer 22 ~29 ~ 3
+
+
+Queue 2 at the time 8
+Customer 27 ~28 ~ 4
+
+
+Queue 2 at the time 8
+Customer 27 ~28 ~ 4
+
+
+Queue 3 at the time 6
+
+
+Queue 3 at the time 6
+
+
+Queue 4 at the time 7
+
+
+Queue 4 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 1 at the time 3
+
+
+Queue 1 at the time 8
+Customer 19 ~30 ~ 5
+
+
+Queue 1 at the time 8
+Customer 19 ~30 ~ 5
+
+
+Queue 2 at the time 8
+Customer 27 ~28 ~ 4
+
+
+Queue 2 at the time 8
+Customer 27 ~28 ~ 4
+
+
+Queue 3 at the time 9
+Customer 20 ~30 ~ 3
+
+
+Queue 3 at the time 9
+Customer 20 ~30 ~ 3
+
+
+Queue 4 at the time 7
+
+
+Queue 4 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 1 at the time 8
+Customer 19 ~30 ~ 5
+
+
+Queue 1 at the time 8
+Customer 19 ~30 ~ 5
+
+
+Queue 2 at the time 8
+Customer 27 ~28 ~ 4
+
+
+Queue 2 at the time 8
+Customer 27 ~28 ~ 4
+
+
+Queue 3 at the time 9
+Customer 20 ~30 ~ 3
+
+
+Queue 3 at the time 9
+Customer 20 ~30 ~ 3
+
+
+Queue 4 at the time 7
+
+
+Queue 4 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 1 at the time 8
+Customer 19 ~30 ~ 5
+
+
+Queue 1 at the time 8
+Customer 19 ~30 ~ 5
+
+
+Queue 2 at the time 8
+Customer 27 ~28 ~ 4
+
+
+Queue 2 at the time 8
+Customer 27 ~28 ~ 4
+
+
+Queue 3 at the time 9
+Customer 20 ~30 ~ 3
+
+
+Queue 3 at the time 9
+Customer 20 ~30 ~ 3
+
+
+Queue 4 at the time 14
+Customer 11 ~31 ~ 7
+
+
+Queue 4 at the time 14
+Customer 11 ~31 ~ 7
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 1 at the time 8
+Customer 19 ~30 ~ 5
+
+
+Queue 1 at the time 8
+Customer 19 ~30 ~ 5
+
+
+Queue 2 at the time 8
+Customer 27 ~28 ~ 4
+
+
+Queue 2 at the time 8
+Customer 27 ~28 ~ 4
+
+
+Queue 3 at the time 9
+Customer 20 ~30 ~ 3
+
+
+Queue 3 at the time 9
+Customer 20 ~30 ~ 3
+
+
+Queue 4 at the time 14
+Customer 11 ~31 ~ 7
+
+
+Queue 4 at the time 14
+Customer 11 ~31 ~ 7
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 2 at the time 4
+
+
+Queue 1 at the time 15
+Customer 19 ~30 ~ 5
+Customer 36 ~32 ~ 7
+
+
+Queue 1 at the time 15
+Customer 19 ~30 ~ 5
+Customer 36 ~32 ~ 7
+
+
+Queue 2 at the time 10
+Customer 10 ~32 ~ 6
+
+
+Queue 2 at the time 10
+Customer 10 ~32 ~ 6
+
+
+Queue 3 at the time 9
+Customer 20 ~30 ~ 3
+
+
+Queue 3 at the time 9
+Customer 20 ~30 ~ 3
+
+
+Queue 4 at the time 14
+Customer 11 ~31 ~ 7
+
+
+Queue 4 at the time 14
+Customer 11 ~31 ~ 7
+
+
+Queue 5 at the time 13
+Customer 26 ~32 ~ 6
+
+
+Queue 5 at the time 13
+Customer 26 ~32 ~ 6
+
+
+Queue 1 at the time 15
+Customer 19 ~30 ~ 5
+Customer 36 ~32 ~ 7
+
+
+Queue 1 at the time 15
+Customer 19 ~30 ~ 5
+Customer 36 ~32 ~ 7
+
+
+Queue 2 at the time 10
+Customer 10 ~32 ~ 6
+
+
+Queue 2 at the time 10
+Customer 10 ~32 ~ 6
+
+
+Queue 3 at the time 9
+Customer 20 ~30 ~ 3
+
+
+Queue 3 at the time 9
+Customer 20 ~30 ~ 3
+
+
+Queue 4 at the time 14
+Customer 11 ~31 ~ 7
+
+
+Queue 4 at the time 14
+Customer 11 ~31 ~ 7
+
+
+Queue 5 at the time 13
+Customer 26 ~32 ~ 6
+
+
+Queue 5 at the time 13
+Customer 26 ~32 ~ 6
+
+
+Queue 1 at the time 12
+Customer 36 ~32 ~ 7
+
+
+Queue 4 at the time 7
+
+
+Queue 5 at the time 6
+
+
+Queue 1 at the time 12
+Customer 36 ~32 ~ 7
+
+
+Queue 1 at the time 12
+Customer 36 ~32 ~ 7
+
+
+Queue 2 at the time 10
+Customer 10 ~32 ~ 6
+
+
+Queue 2 at the time 10
+Customer 10 ~32 ~ 6
+
+
+Queue 3 at the time 9
+Customer 20 ~30 ~ 3
+
+
+Queue 3 at the time 9
+Customer 20 ~30 ~ 3
+
+
+Queue 4 at the time 7
+
+
+Queue 4 at the time 7
+
+
+Queue 5 at the time 7
+Customer 6 ~33 ~ 1
+
+
+Queue 5 at the time 7
+Customer 6 ~33 ~ 1
+
+
+Queue 1 at the time 12
+Customer 36 ~32 ~ 7
+
+
+Queue 1 at the time 12
+Customer 36 ~32 ~ 7
+
+
+Queue 2 at the time 10
+Customer 10 ~32 ~ 6
+
+
+Queue 2 at the time 10
+Customer 10 ~32 ~ 6
+
+
+Queue 3 at the time 9
+Customer 20 ~30 ~ 3
+
+
+Queue 3 at the time 9
+Customer 20 ~30 ~ 3
+
+
+Queue 4 at the time 7
+
+
+Queue 4 at the time 7
+
+
+Queue 5 at the time 7
+Customer 6 ~33 ~ 1
+
+
+Queue 5 at the time 7
+Customer 6 ~33 ~ 1
+
+
+Queue 1 at the time 12
+Customer 36 ~32 ~ 7
+Customer 36 ~32 ~ 7
+
+
+Queue 1 at the time 12
+Customer 36 ~32 ~ 7
+Customer 36 ~32 ~ 7
+
+
+Queue 1 at the time 12
+Customer 36 ~32 ~ 7
+Customer 36 ~32 ~ 7
+
+
+Queue 1 at the time 12
+Customer 36 ~32 ~ 7
+Customer 36 ~32 ~ 7
+
+
+Queue 2 at the time 10
+Customer 10 ~32 ~ 6
+
+
+Queue 2 at the time 10
+Customer 10 ~32 ~ 6
+
+
+Queue 2 at the time 10
+Customer 10 ~32 ~ 6
+
+
+Queue 2 at the time 10
+Customer 10 ~32 ~ 6
+
+
+Queue 3 at the time 9
+Customer 20 ~30 ~ 3
+Customer 20 ~30 ~ 3
+
+
+Queue 3 at the time 9
+Customer 20 ~30 ~ 3
+Customer 20 ~30 ~ 3
+
+
+Queue 3 at the time 9
+Customer 20 ~30 ~ 3
+Customer 20 ~30 ~ 3
+
+
+Queue 3 at the time 9
+Customer 20 ~30 ~ 3
+Customer 20 ~30 ~ 3
+
+
+Queue 4 at the time 9
+Customer 34 ~34 ~ 2
+Customer 34 ~34 ~ 2
+
+
+Queue 4 at the time 9
+Customer 34 ~34 ~ 2
+Customer 34 ~34 ~ 2
+
+
+Queue 4 at the time 9
+Customer 34 ~34 ~ 2
+Customer 34 ~34 ~ 2
+
+
+Queue 4 at the time 9
+Customer 34 ~34 ~ 2
+Customer 34 ~34 ~ 2
+
+
+Queue 5 at the time 12
+Customer 6 ~33 ~ 1
+Customer 42 ~34 ~ 5
+Customer 6 ~33 ~ 1
+Customer 42 ~34 ~ 5
+
+
+Queue 5 at the time 12
+Customer 6 ~33 ~ 1
+Customer 42 ~34 ~ 5
+Customer 6 ~33 ~ 1
+Customer 42 ~34 ~ 5
+
+
+Queue 5 at the time 12
+Customer 6 ~33 ~ 1
+Customer 42 ~34 ~ 5
+Customer 6 ~33 ~ 1
+Customer 42 ~34 ~ 5
+
+
+Queue 5 at the time 12
+Customer 6 ~33 ~ 1
+Customer 42 ~34 ~ 5
+Customer 6 ~33 ~ 1
+Customer 42 ~34 ~ 5
+
+
+Queue 3 at the time 3
+
+
+Queue 1 at the time 12
+Customer 36 ~32 ~ 7
+
+
+Queue 1 at the time 12
+Customer 36 ~32 ~ 7
+
+
+Queue 2 at the time 10
+Customer 10 ~32 ~ 6
+
+
+Queue 2 at the time 10
+Customer 10 ~32 ~ 6
+
+
+Queue 3 at the time 3
+
+
+Queue 3 at the time 3
+
+
+Queue 4 at the time 9
+Customer 34 ~34 ~ 2
+
+
+Queue 4 at the time 9
+Customer 34 ~34 ~ 2
+
+
+Queue 5 at the time 12
+Customer 6 ~33 ~ 1
+Customer 42 ~34 ~ 5
+
+
+Queue 5 at the time 12
+Customer 6 ~33 ~ 1
+Customer 42 ~34 ~ 5
+
+
+Queue 1 at the time 12
+Customer 36 ~32 ~ 7
+
+
+Queue 1 at the time 12
+Customer 36 ~32 ~ 7
+
+
+Queue 2 at the time 10
+Customer 10 ~32 ~ 6
+
+
+Queue 2 at the time 10
+Customer 10 ~32 ~ 6
+
+
+Queue 3 at the time 3
+
+
+Queue 3 at the time 3
+
+
+Queue 4 at the time 9
+Customer 34 ~34 ~ 2
+
+
+Queue 4 at the time 9
+Customer 34 ~34 ~ 2
+
+
+Queue 5 at the time 12
+Customer 6 ~33 ~ 1
+Customer 42 ~34 ~ 5
+
+
+Queue 5 at the time 12
+Customer 6 ~33 ~ 1
+Customer 42 ~34 ~ 5
+
+
+Queue 2 at the time 6
+
+
+Queue 1 at the time 12
+Customer 36 ~32 ~ 7
+
+
+Queue 1 at the time 12
+Customer 36 ~32 ~ 7
+
+
+Queue 2 at the time 6
+
+
+Queue 2 at the time 6
+
+
+Queue 3 at the time 3
+
+
+Queue 3 at the time 3
+
+
+Queue 4 at the time 9
+Customer 34 ~34 ~ 2
+
+
+Queue 4 at the time 9
+Customer 34 ~34 ~ 2
+
+
+Queue 5 at the time 12
+Customer 6 ~33 ~ 1
+Customer 42 ~34 ~ 5
+
+
+Queue 5 at the time 12
+Customer 6 ~33 ~ 1
+Customer 42 ~34 ~ 5
+
+
+Queue 1 at the time 12
+Customer 36 ~32 ~ 7
+
+
+Queue 1 at the time 12
+Customer 36 ~32 ~ 7
+
+
+Queue 2 at the time 6
+
+
+Queue 2 at the time 6
+
+
+Queue 3 at the time 8
+Customer 32 ~36 ~ 5
+
+
+Queue 3 at the time 8
+Customer 32 ~36 ~ 5
+
+
+Queue 4 at the time 9
+Customer 34 ~34 ~ 2
+
+
+Queue 4 at the time 9
+Customer 34 ~34 ~ 2
+
+
+Queue 5 at the time 12
+Customer 6 ~33 ~ 1
+Customer 42 ~34 ~ 5
+
+
+Queue 5 at the time 12
+Customer 6 ~33 ~ 1
+Customer 42 ~34 ~ 5
+
+
+Queue 1 at the time 12
+Customer 36 ~32 ~ 7
+
+
+Queue 1 at the time 12
+Customer 36 ~32 ~ 7
+
+
+Queue 2 at the time 6
+
+
+Queue 2 at the time 6
+
+
+Queue 3 at the time 8
+Customer 32 ~36 ~ 5
+
+
+Queue 3 at the time 8
+Customer 32 ~36 ~ 5
+
+
+Queue 4 at the time 9
+Customer 34 ~34 ~ 2
+
+
+Queue 4 at the time 9
+Customer 34 ~34 ~ 2
+
+
+Queue 5 at the time 12
+Customer 6 ~33 ~ 1
+Customer 42 ~34 ~ 5
+
+
+Queue 5 at the time 12
+Customer 6 ~33 ~ 1
+Customer 42 ~34 ~ 5
+
+
+Queue 1 at the time 12
+Customer 36 ~32 ~ 7
+
+
+Queue 1 at the time 12
+Customer 36 ~32 ~ 7
+
+
+Queue 2 at the time 11
+Customer 14 ~37 ~ 3
+Customer 31 ~37 ~ 2
+
+
+Queue 2 at the time 11
+Customer 14 ~37 ~ 3
+Customer 31 ~37 ~ 2
+
+
+Queue 3 at the time 13
+Customer 32 ~36 ~ 5
+Customer 28 ~37 ~ 5
+
+
+Queue 3 at the time 13
+Customer 32 ~36 ~ 5
+Customer 28 ~37 ~ 5
+
+
+Queue 4 at the time 9
+Customer 34 ~34 ~ 2
+
+
+Queue 4 at the time 9
+Customer 34 ~34 ~ 2
+
+
+Queue 5 at the time 12
+Customer 6 ~33 ~ 1
+Customer 42 ~34 ~ 5
+
+
+Queue 5 at the time 12
+Customer 6 ~33 ~ 1
+Customer 42 ~34 ~ 5
+
+
+Queue 1 at the time 7
+
+
+Queue 3 at the time 10
+Customer 28 ~37 ~ 5
+
+
+Queue 1 at the time 7
+
+
+Queue 1 at the time 7
+
+
+Queue 2 at the time 11
+Customer 14 ~37 ~ 3
+Customer 31 ~37 ~ 2
+
+
+Queue 2 at the time 11
+Customer 14 ~37 ~ 3
+Customer 31 ~37 ~ 2
+
+
+Queue 3 at the time 10
+Customer 28 ~37 ~ 5
+
+
+Queue 3 at the time 10
+Customer 28 ~37 ~ 5
+
+
+Queue 4 at the time 9
+Customer 34 ~34 ~ 2
+
+
+Queue 4 at the time 9
+Customer 34 ~34 ~ 2
+
+
+Queue 5 at the time 12
+Customer 6 ~33 ~ 1
+Customer 42 ~34 ~ 5
+
+
+Queue 5 at the time 12
+Customer 6 ~33 ~ 1
+Customer 42 ~34 ~ 5
+
+
+Queue 1 at the time 13
+Customer 24 ~38 ~ 6
+
+
+Queue 1 at the time 13
+Customer 24 ~38 ~ 6
+
+
+Queue 2 at the time 11
+Customer 14 ~37 ~ 3
+Customer 31 ~37 ~ 2
+
+
+Queue 2 at the time 11
+Customer 14 ~37 ~ 3
+Customer 31 ~37 ~ 2
+
+
+Queue 3 at the time 10
+Customer 28 ~37 ~ 5
+
+
+Queue 3 at the time 10
+Customer 28 ~37 ~ 5
+
+
+Queue 4 at the time 15
+Customer 34 ~34 ~ 2
+Customer 48 ~38 ~ 6
+
+
+Queue 4 at the time 15
+Customer 34 ~34 ~ 2
+Customer 48 ~38 ~ 6
+
+
+Queue 5 at the time 12
+Customer 6 ~33 ~ 1
+Customer 42 ~34 ~ 5
+
+
+Queue 5 at the time 12
+Customer 6 ~33 ~ 1
+Customer 42 ~34 ~ 5
+
+
+Queue 5 at the time 6
+Customer 42 ~34 ~ 5
+
+
+Queue 1 at the time 13
+Customer 24 ~38 ~ 6
+
+
+Queue 1 at the time 13
+Customer 24 ~38 ~ 6
+
+
+Queue 2 at the time 11
+Customer 14 ~37 ~ 3
+Customer 31 ~37 ~ 2
+
+
+Queue 2 at the time 11
+Customer 14 ~37 ~ 3
+Customer 31 ~37 ~ 2
+
+
+Queue 3 at the time 10
+Customer 28 ~37 ~ 5
+
+
+Queue 3 at the time 10
+Customer 28 ~37 ~ 5
+
+
+Queue 4 at the time 15
+Customer 34 ~34 ~ 2
+Customer 48 ~38 ~ 6
+
+
+Queue 4 at the time 15
+Customer 34 ~34 ~ 2
+Customer 48 ~38 ~ 6
+
+
+Queue 5 at the time 6
+Customer 42 ~34 ~ 5
+
+
+Queue 5 at the time 6
+Customer 42 ~34 ~ 5
+
+
+Queue 1 at the time 13
+Customer 24 ~38 ~ 6
+
+
+Queue 1 at the time 13
+Customer 24 ~38 ~ 6
+
+
+Queue 2 at the time 11
+Customer 14 ~37 ~ 3
+Customer 31 ~37 ~ 2
+
+
+Queue 2 at the time 11
+Customer 14 ~37 ~ 3
+Customer 31 ~37 ~ 2
+
+
+Queue 3 at the time 10
+Customer 28 ~37 ~ 5
+
+
+Queue 3 at the time 10
+Customer 28 ~37 ~ 5
+
+
+Queue 4 at the time 15
+Customer 34 ~34 ~ 2
+Customer 48 ~38 ~ 6
+
+
+Queue 4 at the time 15
+Customer 34 ~34 ~ 2
+Customer 48 ~38 ~ 6
+
+
+Queue 5 at the time 15
+Customer 42 ~34 ~ 5
+Customer 4 ~39 ~ 2
+Customer 45 ~39 ~ 7
+
+
+Queue 5 at the time 15
+Customer 42 ~34 ~ 5
+Customer 4 ~39 ~ 2
+Customer 45 ~39 ~ 7
+
+
+Queue 4 at the time 8
+Customer 48 ~38 ~ 6
+
+
+Queue 5 at the time 14
+Customer 4 ~39 ~ 2
+Customer 45 ~39 ~ 7
+
+
+Queue 1 at the time 13
+Customer 24 ~38 ~ 6
+
+
+Queue 1 at the time 13
+Customer 24 ~38 ~ 6
+
+
+Queue 2 at the time 11
+Customer 14 ~37 ~ 3
+Customer 31 ~37 ~ 2
+
+
+Queue 2 at the time 11
+Customer 14 ~37 ~ 3
+Customer 31 ~37 ~ 2
+
+
+Queue 3 at the time 10
+Customer 28 ~37 ~ 5
+
+
+Queue 3 at the time 10
+Customer 28 ~37 ~ 5
+
+
+Queue 4 at the time 8
+Customer 48 ~38 ~ 6
+
+
+Queue 4 at the time 8
+Customer 48 ~38 ~ 6
+
+
+Queue 5 at the time 14
+Customer 4 ~39 ~ 2
+Customer 45 ~39 ~ 7
+
+
+Queue 5 at the time 14
+Customer 4 ~39 ~ 2
+Customer 45 ~39 ~ 7
+
+
+Queue 1 at the time 13
+Customer 24 ~38 ~ 6
+
+
+Queue 1 at the time 13
+Customer 24 ~38 ~ 6
+
+
+Queue 2 at the time 11
+Customer 14 ~37 ~ 3
+Customer 31 ~37 ~ 2
+
+
+Queue 2 at the time 11
+Customer 14 ~37 ~ 3
+Customer 31 ~37 ~ 2
+
+
+Queue 3 at the time 10
+Customer 28 ~37 ~ 5
+
+
+Queue 3 at the time 10
+Customer 28 ~37 ~ 5
+
+
+Queue 4 at the time 9
+Customer 48 ~38 ~ 6
+Customer 47 ~40 ~ 1
+
+
+Queue 4 at the time 9
+Customer 48 ~38 ~ 6
+Customer 47 ~40 ~ 1
+
+
+Queue 5 at the time 14
+Customer 4 ~39 ~ 2
+Customer 45 ~39 ~ 7
+
+
+Queue 5 at the time 14
+Customer 4 ~39 ~ 2
+Customer 45 ~39 ~ 7
+
+
+Queue 1 at the time 13
+Customer 24 ~38 ~ 6
+
+
+Queue 1 at the time 13
+Customer 24 ~38 ~ 6
+
+
+Queue 2 at the time 11
+Customer 14 ~37 ~ 3
+Customer 31 ~37 ~ 2
+
+
+Queue 2 at the time 11
+Customer 14 ~37 ~ 3
+Customer 31 ~37 ~ 2
+
+
+Queue 3 at the time 10
+Customer 28 ~37 ~ 5
+
+
+Queue 3 at the time 10
+Customer 28 ~37 ~ 5
+
+
+Queue 4 at the time 9
+Customer 48 ~38 ~ 6
+Customer 47 ~40 ~ 1
+
+
+Queue 4 at the time 9
+Customer 48 ~38 ~ 6
+Customer 47 ~40 ~ 1
+
+
+Queue 5 at the time 14
+Customer 4 ~39 ~ 2
+Customer 45 ~39 ~ 7
+
+
+Queue 5 at the time 14
+Customer 4 ~39 ~ 2
+Customer 45 ~39 ~ 7
+
+
+Queue 1 at the time 13
+Customer 24 ~38 ~ 6
+
+
+Queue 1 at the time 13
+Customer 24 ~38 ~ 6
+
+
+Queue 2 at the time 11
+Customer 14 ~37 ~ 3
+Customer 31 ~37 ~ 2
+
+
+Queue 2 at the time 11
+Customer 14 ~37 ~ 3
+Customer 31 ~37 ~ 2
+
+
+Queue 3 at the time 10
+Customer 28 ~37 ~ 5
+
+
+Queue 3 at the time 10
+Customer 28 ~37 ~ 5
+
+
+Queue 4 at the time 9
+Customer 48 ~38 ~ 6
+Customer 47 ~40 ~ 1
+
+
+Queue 4 at the time 9
+Customer 48 ~38 ~ 6
+Customer 47 ~40 ~ 1
+
+
+Queue 5 at the time 14
+Customer 4 ~39 ~ 2
+Customer 45 ~39 ~ 7
+
+
+Queue 5 at the time 14
+Customer 4 ~39 ~ 2
+Customer 45 ~39 ~ 7
+
+
+Queue 4 at the time 7
+Customer 47 ~40 ~ 1
+
+
+Queue 2 at the time 5
+Customer 31 ~37 ~ 2
+
+
+Queue 1 at the time 13
+Customer 24 ~38 ~ 6
+
+
+Queue 1 at the time 13
+Customer 24 ~38 ~ 6
+
+
+Queue 2 at the time 5
+Customer 31 ~37 ~ 2
+
+
+Queue 2 at the time 5
+Customer 31 ~37 ~ 2
+
+
+Queue 3 at the time 10
+Customer 28 ~37 ~ 5
+
+
+Queue 3 at the time 10
+Customer 28 ~37 ~ 5
+
+
+Queue 4 at the time 7
+Customer 47 ~40 ~ 1
+
+
+Queue 4 at the time 7
+Customer 47 ~40 ~ 1
+
+
+Queue 5 at the time 14
+Customer 4 ~39 ~ 2
+Customer 45 ~39 ~ 7
+
+
+Queue 5 at the time 14
+Customer 4 ~39 ~ 2
+Customer 45 ~39 ~ 7
+
+
+Queue 1 at the time 13
+Customer 24 ~38 ~ 6
+
+
+Queue 1 at the time 13
+Customer 24 ~38 ~ 6
+
+
+Queue 2 at the time 5
+Customer 31 ~37 ~ 2
+
+
+Queue 2 at the time 5
+Customer 31 ~37 ~ 2
+
+
+Queue 3 at the time 10
+Customer 28 ~37 ~ 5
+
+
+Queue 3 at the time 10
+Customer 28 ~37 ~ 5
+
+
+Queue 4 at the time 7
+Customer 47 ~40 ~ 1
+
+
+Queue 4 at the time 7
+Customer 47 ~40 ~ 1
+
+
+Queue 5 at the time 14
+Customer 4 ~39 ~ 2
+Customer 45 ~39 ~ 7
+
+
+Queue 5 at the time 14
+Customer 4 ~39 ~ 2
+Customer 45 ~39 ~ 7
+
+
+Queue 3 at the time 5
+
+
+Queue 1 at the time 13
+Customer 24 ~38 ~ 6
+
+
+Queue 1 at the time 13
+Customer 24 ~38 ~ 6
+
+
+Queue 2 at the time 5
+Customer 31 ~37 ~ 2
+
+
+Queue 2 at the time 5
+Customer 31 ~37 ~ 2
+
+
+Queue 3 at the time 5
+
+
+Queue 3 at the time 5
+
+
+Queue 4 at the time 7
+Customer 47 ~40 ~ 1
+
+
+Queue 4 at the time 7
+Customer 47 ~40 ~ 1
+
+
+Queue 5 at the time 14
+Customer 4 ~39 ~ 2
+Customer 45 ~39 ~ 7
+
+
+Queue 5 at the time 14
+Customer 4 ~39 ~ 2
+Customer 45 ~39 ~ 7
+
+
+Queue 1 at the time 13
+Customer 24 ~38 ~ 6
+
+
+Queue 1 at the time 13
+Customer 24 ~38 ~ 6
+
+
+Queue 2 at the time 5
+Customer 31 ~37 ~ 2
+
+
+Queue 2 at the time 5
+Customer 31 ~37 ~ 2
+
+
+Queue 3 at the time 5
+
+
+Queue 3 at the time 5
+
+
+Queue 4 at the time 7
+Customer 47 ~40 ~ 1
+
+
+Queue 4 at the time 7
+Customer 47 ~40 ~ 1
+
+
+Queue 5 at the time 14
+Customer 4 ~39 ~ 2
+Customer 45 ~39 ~ 7
+
+
+Queue 5 at the time 14
+Customer 4 ~39 ~ 2
+Customer 45 ~39 ~ 7
+
+
+Queue 1 at the time 13
+Customer 24 ~38 ~ 6
+
+
+Queue 1 at the time 13
+Customer 24 ~38 ~ 6
+
+
+Queue 2 at the time 5
+Customer 31 ~37 ~ 2
+
+
+Queue 2 at the time 5
+Customer 31 ~37 ~ 2
+
+
+Queue 3 at the time 5
+
+
+Queue 3 at the time 5
+
+
+Queue 4 at the time 7
+Customer 47 ~40 ~ 1
+
+
+Queue 4 at the time 7
+Customer 47 ~40 ~ 1
+
+
+Queue 5 at the time 14
+Customer 4 ~39 ~ 2
+Customer 45 ~39 ~ 7
+
+
+Queue 5 at the time 14
+Customer 4 ~39 ~ 2
+Customer 45 ~39 ~ 7
+
+
+Queue 1 at the time 6
+
+
+Queue 1 at the time 6
+
+
+Queue 1 at the time 6
+
+
+Queue 2 at the time 5
+Customer 31 ~37 ~ 2
+
+
+Queue 2 at the time 5
+Customer 31 ~37 ~ 2
+
+
+Queue 3 at the time 5
+
+
+Queue 3 at the time 5
+
+
+Queue 4 at the time 7
+Customer 47 ~40 ~ 1
+
+
+Queue 4 at the time 7
+Customer 47 ~40 ~ 1
+
+
+Queue 5 at the time 14
+Customer 4 ~39 ~ 2
+Customer 45 ~39 ~ 7
+
+
+Queue 5 at the time 14
+Customer 4 ~39 ~ 2
+Customer 45 ~39 ~ 7
+
+
+Queue 5 at the time 9
+Customer 45 ~39 ~ 7
+
+
+Queue 2 at the time 2
+
+
+Queue 1 at the time 6
+
+
+Queue 1 at the time 6
+
+
+Queue 2 at the time 2
+
+
+Queue 2 at the time 2
+
+
+Queue 3 at the time 5
+
+
+Queue 3 at the time 5
+
+
+Queue 4 at the time 7
+Customer 47 ~40 ~ 1
+
+
+Queue 4 at the time 7
+Customer 47 ~40 ~ 1
+
+
+Queue 5 at the time 9
+Customer 45 ~39 ~ 7
+
+
+Queue 5 at the time 9
+Customer 45 ~39 ~ 7
+
+
+Queue 1 at the time 6
+
+
+Queue 1 at the time 6
+
+
+Queue 2 at the time 2
+
+
+Queue 2 at the time 2
+
+
+Queue 3 at the time 5
+
+
+Queue 3 at the time 5
+
+
+Queue 4 at the time 7
+Customer 47 ~40 ~ 1
+
+
+Queue 4 at the time 7
+Customer 47 ~40 ~ 1
+
+
+Queue 5 at the time 9
+Customer 45 ~39 ~ 7
+
+
+Queue 5 at the time 9
+Customer 45 ~39 ~ 7
+
+
+Queue 1 at the time 6
+
+
+Queue 1 at the time 6
+
+
+Queue 2 at the time 2
+
+
+Queue 2 at the time 2
+
+
+Queue 3 at the time 5
+
+
+Queue 3 at the time 5
+
+
+Queue 4 at the time 7
+Customer 47 ~40 ~ 1
+
+
+Queue 4 at the time 7
+Customer 47 ~40 ~ 1
+
+
+Queue 5 at the time 9
+Customer 45 ~39 ~ 7
+
+
+Queue 5 at the time 9
+Customer 45 ~39 ~ 7
+
+
+Queue 1 at the time 6
+
+
+Queue 1 at the time 6
+
+
+Queue 2 at the time 2
+
+
+Queue 2 at the time 2
+
+
+Queue 3 at the time 5
+
+
+Queue 3 at the time 5
+
+
+Queue 4 at the time 7
+Customer 47 ~40 ~ 1
+
+
+Queue 4 at the time 7
+Customer 47 ~40 ~ 1
+
+
+Queue 5 at the time 9
+Customer 45 ~39 ~ 7
+
+
+Queue 5 at the time 9
+Customer 45 ~39 ~ 7
+
+
+Queue 5 at the time 7
+
+
+Queue 2 at the time 0
+
+
+Queue 1 at the time 6
+
+
+Queue 1 at the time 6
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 5
+
+
+Queue 3 at the time 5
+
+
+Queue 4 at the time 7
+Customer 47 ~40 ~ 1
+
+
+Queue 4 at the time 7
+Customer 47 ~40 ~ 1
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 4 at the time 1
+
+
+Queue 1 at the time 6
+
+
+Queue 1 at the time 6
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 5
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 1
+
+
+Queue 4 at the time 1
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 1 at the time 6
+
+
+Queue 1 at the time 6
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 1
+
+
+Queue 4 at the time 1
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 4 at the time 0
+
+
+Queue 1 at the time 6
+
+
+Queue 1 at the time 6
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 1 at the time 6
+
+
+Queue 1 at the time 6
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 1 at the time 6
+
+
+Queue 1 at the time 6
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 1 at the time 6
+
+
+Queue 1 at the time 6
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 4
+
+
+Queue 1 at the time 4
+
+
+Queue 2 at the time 7
+
+
+Queue 2 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 7
+Customer 44 ~2 ~ 5
+
+
+Queue 4 at the time 7
+Customer 44 ~2 ~ 5
+
+
+Queue 5 at the time 3
+
+
+Queue 5 at the time 3
+
+
+Queue 1 at the time 4
+
+
+Queue 1 at the time 4
+
+
+Queue 2 at the time 7
+
+
+Queue 2 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 7
+Customer 44 ~2 ~ 5
+
+
+Queue 4 at the time 7
+Customer 44 ~2 ~ 5
+
+
+Queue 5 at the time 3
+
+
+Queue 5 at the time 3
+
+
+Queue 1 at the time 4
+
+
+Queue 1 at the time 4
+
+
+Queue 2 at the time 7
+
+
+Queue 2 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 7
+Customer 44 ~2 ~ 5
+
+
+Queue 4 at the time 7
+Customer 44 ~2 ~ 5
+
+
+Queue 5 at the time 3
+
+
+Queue 5 at the time 3
+
+
+Queue 1 at the time 4
+
+
+Queue 1 at the time 4
+
+
+Queue 2 at the time 7
+
+
+Queue 2 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 7
+Customer 44 ~2 ~ 5
+
+
+Queue 4 at the time 7
+Customer 44 ~2 ~ 5
+
+
+Queue 5 at the time 3
+
+
+Queue 5 at the time 3
+
+
+Queue 4 at the time 5
+
+
+Queue 1 at the time 4
+
+
+Queue 1 at the time 4
+
+
+Queue 2 at the time 7
+
+
+Queue 2 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 5
+
+
+Queue 4 at the time 5
+
+
+Queue 5 at the time 3
+
+
+Queue 5 at the time 3
+
+
+Queue 1 at the time 4
+
+
+Queue 1 at the time 4
+
+
+Queue 2 at the time 7
+
+
+Queue 2 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 5
+
+
+Queue 4 at the time 5
+
+
+Queue 5 at the time 3
+
+
+Queue 5 at the time 3
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 7
+Customer 35 ~5 ~ 3
+
+
+Queue 1 at the time 7
+Customer 35 ~5 ~ 3
+
+
+Queue 2 at the time 7
+
+
+Queue 2 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 7
+Customer 37 ~5 ~ 2
+
+
+Queue 4 at the time 7
+Customer 37 ~5 ~ 2
+
+
+Queue 1 at the time 7
+Customer 35 ~5 ~ 3
+
+
+Queue 1 at the time 7
+Customer 35 ~5 ~ 3
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 2 at the time 7
+
+
+Queue 2 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 7
+Customer 37 ~5 ~ 2
+
+
+Queue 4 at the time 7
+Customer 37 ~5 ~ 2
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 1 at the time 3
+
+
+Queue 1 at the time 3
+
+
+Queue 1 at the time 3
+
+
+Queue 2 at the time 7
+
+
+Queue 2 at the time 7
+
+
+Queue 1 at the time 3
+
+
+Queue 1 at the time 3
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 2 at the time 7
+
+
+Queue 2 at the time 7
+
+
+Queue 4 at the time 7
+Customer 37 ~5 ~ 2
+
+
+Queue 4 at the time 7
+Customer 37 ~5 ~ 2
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 4 at the time 7
+Customer 37 ~5 ~ 2
+
+
+Queue 4 at the time 7
+Customer 37 ~5 ~ 2
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 1 at the time 3
+
+
+Queue 1 at the time 3
+
+
+Queue 2 at the time 7
+
+
+Queue 2 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 7
+Customer 37 ~5 ~ 2
+
+
+Queue 4 at the time 7
+Customer 37 ~5 ~ 2
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 1 at the time 7
+Customer 39 ~7 ~ 2
+Customer 49 ~7 ~ 2
+
+
+Queue 1 at the time 7
+Customer 39 ~7 ~ 2
+Customer 49 ~7 ~ 2
+
+
+Queue 2 at the time 7
+
+
+Queue 2 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 7
+Customer 37 ~5 ~ 2
+
+
+Queue 4 at the time 7
+Customer 37 ~5 ~ 2
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 1 at the time 7
+Customer 39 ~7 ~ 2
+Customer 49 ~7 ~ 2
+
+
+Queue 1 at the time 7
+Customer 39 ~7 ~ 2
+Customer 49 ~7 ~ 2
+
+
+Queue 2 at the time 7
+
+
+Queue 2 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 7
+Customer 37 ~5 ~ 2
+
+
+Queue 4 at the time 7
+Customer 37 ~5 ~ 2
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 1 at the time 12
+Customer 39 ~7 ~ 2
+Customer 49 ~7 ~ 2
+Customer 22 ~8 ~ 5
+
+
+Queue 1 at the time 12
+Customer 39 ~7 ~ 2
+Customer 49 ~7 ~ 2
+Customer 22 ~8 ~ 5
+
+
+Queue 2 at the time 8
+Customer 45 ~8 ~ 1
+
+
+Queue 2 at the time 1
+Customer 45 ~8 ~ 1
+
+
+Queue 4 at the time 2
+
+
+Queue 1 at the time 9
+Customer 49 ~7 ~ 2
+Customer 22 ~8 ~ 5
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 2 at the time 1
+
+
+Queue 4 at the time 2
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 2
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 1 at the time 9
+Customer 49 ~7 ~ 2
+Customer 22 ~8 ~ 5
+
+
+Queue 1 at the time 9
+Customer 49 ~7 ~ 2
+Customer 22 ~8 ~ 5
+
+
+Queue 2 at the time 1
+
+
+Queue 2 at the time 1
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 2
+
+
+Queue 4 at the time 2
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 2 at the time 0
+
+
+Queue 1 at the time 9
+Customer 49 ~7 ~ 2
+Customer 22 ~8 ~ 5
+
+
+Queue 1 at the time 9
+Customer 49 ~7 ~ 2
+Customer 22 ~8 ~ 5
+
+
+Queue 2 at the time 4
+
+
+Queue 2 at the time 4
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 2
+
+
+Queue 4 at the time 2
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 1 at the time 9
+Customer 49 ~7 ~ 2
+Customer 22 ~8 ~ 5
+
+
+Queue 1 at the time 9
+Customer 49 ~7 ~ 2
+Customer 22 ~8 ~ 5
+
+
+Queue 2 at the time 4
+
+
+Queue 2 at the time 4
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 2
+
+
+Queue 4 at the time 2
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 1 at the time 7
+Customer 22 ~8 ~ 5
+
+
+Queue 4 at the time 0
+
+
+Queue 1 at the time 7
+Customer 22 ~8 ~ 5
+
+
+Queue 1 at the time 7
+Customer 22 ~8 ~ 5
+
+
+Queue 2 at the time 4
+
+
+Queue 2 at the time 4
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 1 at the time 7
+Customer 22 ~8 ~ 5
+
+
+Queue 1 at the time 7
+Customer 22 ~8 ~ 5
+
+
+Queue 2 at the time 4
+
+
+Queue 2 at the time 4
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 1 at the time 9
+Customer 22 ~8 ~ 5
+Customer 34 ~11 ~ 2
+
+
+Queue 1 at the time 9
+Customer 22 ~8 ~ 5
+Customer 34 ~11 ~ 2
+
+
+Queue 2 at the time 7
+Customer 16 ~11 ~ 3
+
+
+Queue 2 at the time 7
+Customer 16 ~11 ~ 3
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 8
+Customer 29 ~11 ~ 4
+
+
+Queue 4 at the time 8
+Customer 29 ~11 ~ 4
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 7
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 9
+Customer 22 ~8 ~ 5
+Customer 34 ~11 ~ 2
+
+
+Queue 1 at the time 9
+Customer 22 ~8 ~ 5
+Customer 34 ~11 ~ 2
+
+
+Queue 2 at the time 7
+Customer 16 ~11 ~ 3
+
+
+Queue 2 at the time 7
+Customer 16 ~11 ~ 3
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 8
+Customer 29 ~11 ~ 4
+
+
+Queue 4 at the time 8
+Customer 29 ~11 ~ 4
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 7
+Customer 34 ~11 ~ 2
+
+
+Queue 1 at the time 7
+Customer 34 ~11 ~ 2
+
+
+Queue 1 at the time 7
+Customer 34 ~11 ~ 2
+
+
+Queue 2 at the time 7
+Customer 16 ~11 ~ 3
+
+
+Queue 2 at the time 7
+Customer 16 ~11 ~ 3
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 8
+Customer 29 ~11 ~ 4
+
+
+Queue 4 at the time 8
+Customer 29 ~11 ~ 4
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 7
+Customer 34 ~11 ~ 2
+
+
+Queue 1 at the time 7
+Customer 34 ~11 ~ 2
+
+
+Queue 2 at the time 7
+Customer 16 ~11 ~ 3
+
+
+Queue 2 at the time 7
+Customer 16 ~11 ~ 3
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 8
+Customer 29 ~11 ~ 4
+
+
+Queue 4 at the time 8
+Customer 29 ~11 ~ 4
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 2 at the time 3
+
+
+Queue 1 at the time 7
+Customer 34 ~11 ~ 2
+
+
+Queue 1 at the time 7
+Customer 34 ~11 ~ 2
+
+
+Queue 2 at the time 3
+
+
+Queue 2 at the time 3
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 8
+Customer 29 ~11 ~ 4
+
+
+Queue 4 at the time 8
+Customer 29 ~11 ~ 4
+
+
+Queue 5 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 1 at the time 7
+Customer 34 ~11 ~ 2
+
+
+Queue 1 at the time 7
+Customer 34 ~11 ~ 2
+
+
+Queue 2 at the time 3
+
+
+Queue 2 at the time 3
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 8
+Customer 29 ~11 ~ 4
+
+
+Queue 4 at the time 8
+Customer 29 ~11 ~ 4
+
+
+Queue 5 at the time 5
+
+
+Queue 5 at the time 5
+
+
+Queue 1 at the time 7
+Customer 34 ~11 ~ 2
+
+
+Queue 1 at the time 7
+Customer 34 ~11 ~ 2
+
+
+Queue 2 at the time 9
+Customer 23 ~14 ~ 6
+
+
+Queue 2 at the time 9
+Customer 23 ~14 ~ 6
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 8
+Customer 29 ~11 ~ 4
+
+
+Queue 4 at the time 8
+Customer 29 ~11 ~ 4
+
+
+Queue 5 at the time 7
+Customer 38 ~14 ~ 2
+
+
+Queue 5 at the time 7
+Customer 38 ~14 ~ 2
+
+
+Queue 1 at the time 7
+Customer 34 ~11 ~ 2
+
+
+Queue 1 at the time 7
+Customer 34 ~11 ~ 2
+
+
+Queue 2 at the time 9
+Customer 23 ~14 ~ 6
+
+
+Queue 2 at the time 9
+Customer 23 ~14 ~ 6
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 8
+Customer 29 ~11 ~ 4
+
+
+Queue 4 at the time 8
+Customer 29 ~11 ~ 4
+
+
+Queue 5 at the time 7
+Customer 38 ~14 ~ 2
+
+
+Queue 5 at the time 7
+Customer 38 ~14 ~ 2
+
+
+Queue 4 at the time 4
+
+
+Queue 1 at the time 7
+Customer 34 ~11 ~ 2
+
+
+Queue 1 at the time 7
+Customer 34 ~11 ~ 2
+
+
+Queue 2 at the time 9
+Customer 23 ~14 ~ 6
+
+
+Queue 2 at the time 9
+Customer 23 ~14 ~ 6
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 11
+Customer 20 ~15 ~ 7
+
+
+Queue 4 at the time 11
+Customer 20 ~15 ~ 7
+
+
+Queue 5 at the time 7
+Customer 38 ~14 ~ 2
+
+
+Queue 5 at the time 7
+Customer 38 ~14 ~ 2
+
+
+Queue 1 at the time 7
+Customer 34 ~11 ~ 2
+
+
+Queue 1 at the time 7
+Customer 34 ~11 ~ 2
+
+
+Queue 2 at the time 9
+Customer 23 ~14 ~ 6
+
+
+Queue 2 at the time 9
+Customer 23 ~14 ~ 6
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 11
+Customer 20 ~15 ~ 7
+
+
+Queue 4 at the time 11
+Customer 20 ~15 ~ 7
+
+
+Queue 5 at the time 7
+Customer 38 ~14 ~ 2
+
+
+Queue 5 at the time 7
+Customer 38 ~14 ~ 2
+
+
+Queue 2 at the time 6
+
+
+Queue 1 at the time 7
+Customer 34 ~11 ~ 2
+
+
+Queue 1 at the time 7
+Customer 34 ~11 ~ 2
+
+
+Queue 2 at the time 9
+Customer 14 ~16 ~ 3
+
+
+Queue 2 at the time 9
+Customer 14 ~16 ~ 3
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 11
+Customer 20 ~15 ~ 7
+
+
+Queue 4 at the time 11
+Customer 20 ~15 ~ 7
+
+
+Queue 5 at the time 7
+Customer 38 ~14 ~ 2
+
+
+Queue 5 at the time 7
+Customer 38 ~14 ~ 2
+
+
+Queue 1 at the time 7
+Customer 34 ~11 ~ 2
+
+
+Queue 1 at the time 7
+Customer 34 ~11 ~ 2
+
+
+Queue 2 at the time 9
+Customer 14 ~16 ~ 3
+
+
+Queue 2 at the time 9
+Customer 14 ~16 ~ 3
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 11
+Customer 20 ~15 ~ 7
+
+
+Queue 4 at the time 11
+Customer 20 ~15 ~ 7
+
+
+Queue 5 at the time 7
+Customer 38 ~14 ~ 2
+
+
+Queue 5 at the time 7
+Customer 38 ~14 ~ 2
+
+
+Queue 1 at the time 2
+
+
+Queue 3 at the time 0
+
+
+Queue 1 at the time 2
+
+
+Queue 1 at the time 2
+
+
+Queue 2 at the time 9
+Customer 14 ~16 ~ 3
+
+
+Queue 2 at the time 9
+Customer 14 ~16 ~ 3
+
+
+Queue 3 at the time 6
+
+
+Queue 3 at the time 6
+
+
+Queue 4 at the time 11
+Customer 20 ~15 ~ 7
+
+
+Queue 4 at the time 11
+Customer 20 ~15 ~ 7
+
+
+Queue 5 at the time 7
+Customer 38 ~14 ~ 2
+
+
+Queue 5 at the time 7
+Customer 38 ~14 ~ 2
+
+
+Queue 1 at the time 2
+
+
+Queue 1 at the time 2
+
+
+Queue 2 at the time 9
+Customer 14 ~16 ~ 3
+
+
+Queue 2 at the time 9
+Customer 14 ~16 ~ 3
+
+
+Queue 3 at the time 6
+
+
+Queue 3 at the time 6
+
+
+Queue 4 at the time 11
+Customer 20 ~15 ~ 7
+
+
+Queue 4 at the time 11
+Customer 20 ~15 ~ 7
+
+
+Queue 5 at the time 7
+Customer 38 ~14 ~ 2
+
+
+Queue 5 at the time 7
+Customer 38 ~14 ~ 2
+
+
+Queue 5 at the time 2
+
+
+Queue 1 at the time 2
+
+
+Queue 1 at the time 2
+
+
+Queue 2 at the time 9
+Customer 14 ~16 ~ 3
+
+
+Queue 2 at the time 9
+Customer 14 ~16 ~ 3
+
+
+Queue 3 at the time 6
+
+
+Queue 3 at the time 6
+
+
+Queue 4 at the time 11
+Customer 20 ~15 ~ 7
+
+
+Queue 4 at the time 11
+Customer 20 ~15 ~ 7
+
+
+Queue 5 at the time 2
+
+
+Queue 5 at the time 2
+
+
+Queue 1 at the time 2
+
+
+Queue 1 at the time 2
+
+
+Queue 2 at the time 9
+Customer 14 ~16 ~ 3
+
+
+Queue 2 at the time 9
+Customer 14 ~16 ~ 3
+
+
+Queue 3 at the time 6
+
+
+Queue 3 at the time 6
+
+
+Queue 4 at the time 11
+Customer 20 ~15 ~ 7
+
+
+Queue 4 at the time 11
+Customer 20 ~15 ~ 7
+
+
+Queue 5 at the time 2
+
+
+Queue 5 at the time 2
+
+
+Queue 1 at the time 0
+
+
+Queue 4 at the time 7
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 9
+Customer 14 ~16 ~ 3
+
+
+Queue 2 at the time 9
+Customer 14 ~16 ~ 3
+
+
+Queue 3 at the time 6
+
+
+Queue 3 at the time 6
+
+
+Queue 4 at the time 7
+
+
+Queue 4 at the time 7
+
+
+Queue 5 at the time 2
+
+
+Queue 5 at the time 2
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 9
+Customer 14 ~16 ~ 3
+
+
+Queue 2 at the time 9
+Customer 14 ~16 ~ 3
+
+
+Queue 3 at the time 6
+
+
+Queue 3 at the time 6
+
+
+Queue 4 at the time 7
+
+
+Queue 4 at the time 7
+
+
+Queue 5 at the time 2
+
+
+Queue 5 at the time 2
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 9
+Customer 14 ~16 ~ 3
+
+
+Queue 2 at the time 9
+Customer 14 ~16 ~ 3
+
+
+Queue 3 at the time 6
+
+
+Queue 3 at the time 6
+
+
+Queue 4 at the time 7
+
+
+Queue 4 at the time 7
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 9
+Customer 14 ~16 ~ 3
+
+
+Queue 2 at the time 9
+Customer 14 ~16 ~ 3
+
+
+Queue 3 at the time 6
+
+
+Queue 3 at the time 6
+
+
+Queue 4 at the time 7
+
+
+Queue 4 at the time 7
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 9
+Customer 14 ~16 ~ 3
+
+
+Queue 2 at the time 9
+Customer 14 ~16 ~ 3
+
+
+Queue 3 at the time 6
+
+
+Queue 3 at the time 6
+
+
+Queue 4 at the time 7
+
+
+Queue 4 at the time 7
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 9
+Customer 14 ~16 ~ 3
+
+
+Queue 2 at the time 9
+Customer 14 ~16 ~ 3
+
+
+Queue 3 at the time 6
+
+
+Queue 3 at the time 6
+
+
+Queue 4 at the time 7
+
+
+Queue 4 at the time 7
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 2 at the time 3
+
+
+Queue 1 at the time 1
+
+
+Queue 1 at the time 1
+
+
+Queue 2 at the time 3
+
+
+Queue 2 at the time 3
+
+
+Queue 3 at the time 6
+
+
+Queue 3 at the time 6
+
+
+Queue 4 at the time 7
+
+
+Queue 4 at the time 7
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 1
+
+
+Queue 1 at the time 1
+
+
+Queue 2 at the time 3
+
+
+Queue 2 at the time 3
+
+
+Queue 3 at the time 6
+
+
+Queue 3 at the time 6
+
+
+Queue 4 at the time 7
+
+
+Queue 4 at the time 7
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 4
+
+
+Queue 1 at the time 4
+
+
+Queue 2 at the time 3
+
+
+Queue 2 at the time 3
+
+
+Queue 3 at the time 1
+
+
+Queue 3 at the time 1
+
+
+Queue 4 at the time 7
+
+
+Queue 4 at the time 7
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 4
+
+
+Queue 1 at the time 4
+
+
+Queue 2 at the time 3
+
+
+Queue 2 at the time 3
+
+
+Queue 3 at the time 1
+
+
+Queue 3 at the time 1
+
+
+Queue 4 at the time 7
+
+
+Queue 4 at the time 7
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 1 at the time 4
+
+
+Queue 1 at the time 4
+
+
+Queue 2 at the time 3
+
+
+Queue 2 at the time 3
+
+
+Queue 3 at the time 4
+
+
+Queue 3 at the time 4
+
+
+Queue 4 at the time 7
+
+
+Queue 4 at the time 7
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 4
+
+
+Queue 1 at the time 4
+
+
+Queue 2 at the time 3
+
+
+Queue 2 at the time 3
+
+
+Queue 3 at the time 4
+
+
+Queue 3 at the time 4
+
+
+Queue 4 at the time 7
+
+
+Queue 4 at the time 7
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 1 at the time 4
+
+
+Queue 1 at the time 4
+
+
+Queue 2 at the time 5
+
+
+Queue 2 at the time 5
+
+
+Queue 3 at the time 4
+
+
+Queue 3 at the time 4
+
+
+Queue 4 at the time 7
+
+
+Queue 4 at the time 7
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 4
+
+
+Queue 1 at the time 4
+
+
+Queue 2 at the time 5
+
+
+Queue 2 at the time 5
+
+
+Queue 3 at the time 4
+
+
+Queue 3 at the time 4
+
+
+Queue 4 at the time 7
+
+
+Queue 4 at the time 7
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 1 at the time 4
+
+
+Queue 1 at the time 4
+
+
+Queue 2 at the time 5
+
+
+Queue 2 at the time 5
+
+
+Queue 3 at the time 4
+
+
+Queue 3 at the time 4
+
+
+Queue 4 at the time 4
+
+
+Queue 4 at the time 4
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 4
+
+
+Queue 1 at the time 4
+
+
+Queue 2 at the time 5
+
+
+Queue 2 at the time 5
+
+
+Queue 3 at the time 4
+
+
+Queue 3 at the time 4
+
+
+Queue 4 at the time 4
+
+
+Queue 4 at the time 4
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 1
+
+
+Queue 1 at the time 1
+
+
+Queue 2 at the time 5
+
+
+Queue 2 at the time 5
+
+
+Queue 3 at the time 4
+
+
+Queue 3 at the time 4
+
+
+Queue 4 at the time 4
+
+
+Queue 4 at the time 4
+
+
+Queue 5 at the time 6
+
+
+Queue 5 at the time 6
+
+
+Queue 1 at the time 1
+
+
+Queue 1 at the time 1
+
+
+Queue 2 at the time 5
+
+
+Queue 2 at the time 5
+
+
+Queue 3 at the time 4
+
+
+Queue 3 at the time 4
+
+
+Queue 4 at the time 4
+
+
+Queue 4 at the time 4
+
+
+Queue 5 at the time 6
+
+
+Queue 5 at the time 6
+
+
+Queue 3 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 2
+
+
+Queue 1 at the time 2
+
+
+Queue 2 at the time 5
+
+
+Queue 2 at the time 5
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 4
+
+
+Queue 4 at the time 4
+
+
+Queue 5 at the time 6
+
+
+Queue 5 at the time 6
+
+
+Queue 1 at the time 2
+
+
+Queue 1 at the time 2
+
+
+Queue 2 at the time 5
+
+
+Queue 2 at the time 5
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 4
+
+
+Queue 4 at the time 4
+
+
+Queue 5 at the time 6
+
+
+Queue 5 at the time 6
+
+
+Queue 1 at the time 2
+
+
+Queue 1 at the time 2
+
+
+Queue 1 at the time 2
+
+
+Queue 1 at the time 2
+
+
+Queue 2 at the time 5
+
+
+Queue 2 at the time 5
+
+
+Queue 2 at the time 5
+
+
+Queue 2 at the time 5
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 4
+
+
+Queue 4 at the time 4
+
+
+Queue 4 at the time 4
+
+
+Queue 4 at the time 4
+
+
+Queue 5 at the time 6
+
+
+Queue 5 at the time 6
+
+
+Queue 5 at the time 6
+
+
+Queue 5 at the time 6
+
+
+Queue 2 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 6
+
+
+Queue 5 at the time 6
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 6
+
+
+Queue 5 at the time 6
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 6
+
+
+Queue 5 at the time 6
+
+
+Queue 1 at the time 4
+
+
+Queue 1 at the time 4
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 6
+
+
+Queue 5 at the time 6
+
+
+Queue 1 at the time 4
+
+
+Queue 1 at the time 4
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 6
+
+
+Queue 5 at the time 6
+
+
+Queue 1 at the time 4
+
+
+Queue 1 at the time 4
+
+
+Queue 2 at the time 6
+
+
+Queue 2 at the time 6
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 6
+
+
+Queue 4 at the time 6
+
+
+Queue 5 at the time 6
+
+
+Queue 5 at the time 6
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 4
+
+
+Queue 1 at the time 4
+
+
+Queue 2 at the time 6
+
+
+Queue 2 at the time 6
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 6
+
+
+Queue 4 at the time 6
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 4
+
+
+Queue 1 at the time 4
+
+
+Queue 2 at the time 6
+
+
+Queue 2 at the time 6
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 6
+
+
+Queue 4 at the time 6
+
+
+Queue 5 at the time 3
+
+
+Queue 5 at the time 3
+
+
+Queue 1 at the time 4
+
+
+Queue 1 at the time 4
+
+
+Queue 2 at the time 6
+
+
+Queue 2 at the time 6
+
+
+Queue 3 at the time 7
+
+
+Queue 3 at the time 7
+
+
+Queue 4 at the time 6
+
+
+Queue 4 at the time 6
+
+
+Queue 5 at the time 3
+
+
+Queue 5 at the time 3
+
+
+Queue 1 at the time 11
+Customer 10 ~34 ~ 7
+
+
+Queue 1 at the time 11
+Customer 10 ~34 ~ 7
+
+
+Queue 2 at the time 12
+Customer 21 ~34 ~ 6
+
+
+Queue 2 at the time 12
+Customer 21 ~34 ~ 6
+
+
+Queue 3 at the time 9
+Customer 28 ~34 ~ 2
+
+
+Queue 3 at the time 9
+Customer 28 ~34 ~ 2
+
+
+Queue 4 at the time 10
+Customer 26 ~34 ~ 4
+
+
+Queue 4 at the time 10
+Customer 26 ~34 ~ 4
+
+
+Queue 5 at the time 11
+Customer 2 ~34 ~ 4
+Customer 47 ~34 ~ 4
+
+
+Queue 5 at the time 11
+Customer 2 ~34 ~ 4
+Customer 47 ~34 ~ 4
+
+
+Queue 1 at the time 11
+Customer 10 ~34 ~ 7
+
+
+Queue 1 at the time 11
+Customer 10 ~34 ~ 7
+
+
+Queue 2 at the time 12
+Customer 21 ~34 ~ 6
+
+
+Queue 2 at the time 12
+Customer 21 ~34 ~ 6
+
+
+Queue 3 at the time 9
+Customer 28 ~34 ~ 2
+
+
+Queue 3 at the time 9
+Customer 28 ~34 ~ 2
+
+
+Queue 4 at the time 10
+Customer 26 ~34 ~ 4
+
+
+Queue 4 at the time 10
+Customer 26 ~34 ~ 4
+
+
+Queue 5 at the time 11
+Customer 2 ~34 ~ 4
+Customer 47 ~34 ~ 4
+
+
+Queue 5 at the time 11
+Customer 2 ~34 ~ 4
+Customer 47 ~34 ~ 4
+
+
+Queue 1 at the time 7
+
+
+Queue 1 at the time 9
+Customer 40 ~35 ~ 2
+
+
+Queue 1 at the time 9
+Customer 40 ~35 ~ 2
+
+
+Queue 2 at the time 12
+Customer 21 ~34 ~ 6
+
+
+Queue 2 at the time 12
+Customer 21 ~34 ~ 6
+
+
+Queue 3 at the time 9
+Customer 28 ~34 ~ 2
+
+
+Queue 3 at the time 9
+Customer 28 ~34 ~ 2
+
+
+Queue 4 at the time 10
+Customer 26 ~34 ~ 4
+
+
+Queue 4 at the time 10
+Customer 26 ~34 ~ 4
+
+
+Queue 5 at the time 11
+Customer 2 ~34 ~ 4
+Customer 47 ~34 ~ 4
+
+
+Queue 5 at the time 11
+Customer 2 ~34 ~ 4
+Customer 47 ~34 ~ 4
+
+
+Queue 3 at the time 2
+
+
+Queue 1 at the time 9
+Customer 40 ~35 ~ 2
+
+
+Queue 1 at the time 9
+Customer 40 ~35 ~ 2
+
+
+Queue 2 at the time 12
+Customer 21 ~34 ~ 6
+
+
+Queue 2 at the time 12
+Customer 21 ~34 ~ 6
+
+
+Queue 3 at the time 2
+
+
+Queue 3 at the time 2
+
+
+Queue 4 at the time 10
+Customer 26 ~34 ~ 4
+
+
+Queue 4 at the time 10
+Customer 26 ~34 ~ 4
+
+
+Queue 5 at the time 11
+Customer 2 ~34 ~ 4
+Customer 47 ~34 ~ 4
+
+
+Queue 5 at the time 11
+Customer 2 ~34 ~ 4
+Customer 47 ~34 ~ 4
+
+
+Queue 5 at the time 8
+Customer 47 ~34 ~ 4
+
+
+Queue 1 at the time 9
+Customer 40 ~35 ~ 2
+
+
+Queue 1 at the time 9
+Customer 40 ~35 ~ 2
+
+
+Queue 2 at the time 12
+Customer 21 ~34 ~ 6
+
+
+Queue 2 at the time 12
+Customer 21 ~34 ~ 6
+
+
+Queue 3 at the time 8
+Customer 5 ~36 ~ 6
+
+
+Queue 3 at the time 8
+Customer 5 ~36 ~ 6
+
+
+Queue 4 at the time 10
+Customer 26 ~34 ~ 4
+
+
+Queue 4 at the time 10
+Customer 26 ~34 ~ 4
+
+
+Queue 5 at the time 8
+Customer 47 ~34 ~ 4
+
+
+Queue 5 at the time 8
+Customer 47 ~34 ~ 4
+
+
+Queue 1 at the time 9
+Customer 40 ~35 ~ 2
+
+
+Queue 1 at the time 9
+Customer 40 ~35 ~ 2
+
+
+Queue 2 at the time 12
+Customer 21 ~34 ~ 6
+
+
+Queue 2 at the time 12
+Customer 21 ~34 ~ 6
+
+
+Queue 3 at the time 8
+Customer 5 ~36 ~ 6
+
+
+Queue 3 at the time 8
+Customer 5 ~36 ~ 6
+
+
+Queue 4 at the time 10
+Customer 26 ~34 ~ 4
+
+
+Queue 4 at the time 10
+Customer 26 ~34 ~ 4
+
+
+Queue 5 at the time 8
+Customer 47 ~34 ~ 4
+
+
+Queue 5 at the time 8
+Customer 47 ~34 ~ 4
+
+
+Queue 1 at the time 9
+Customer 40 ~35 ~ 2
+
+
+Queue 1 at the time 9
+Customer 40 ~35 ~ 2
+
+
+Queue 2 at the time 12
+Customer 21 ~34 ~ 6
+
+
+Queue 2 at the time 12
+Customer 21 ~34 ~ 6
+
+
+Queue 3 at the time 8
+Customer 5 ~36 ~ 6
+
+
+Queue 3 at the time 8
+Customer 5 ~36 ~ 6
+
+
+Queue 4 at the time 10
+Customer 26 ~34 ~ 4
+
+
+Queue 4 at the time 10
+Customer 26 ~34 ~ 4
+
+
+Queue 5 at the time 8
+Customer 47 ~34 ~ 4
+
+
+Queue 5 at the time 8
+Customer 47 ~34 ~ 4
+
+
+Queue 3 at the time 6
+
+
+Queue 1 at the time 9
+Customer 40 ~35 ~ 2
+
+
+Queue 1 at the time 9
+Customer 40 ~35 ~ 2
+
+
+Queue 2 at the time 12
+Customer 21 ~34 ~ 6
+
+
+Queue 2 at the time 12
+Customer 21 ~34 ~ 6
+
+
+Queue 3 at the time 6
+
+
+Queue 3 at the time 6
+
+
+Queue 4 at the time 10
+Customer 26 ~34 ~ 4
+
+
+Queue 4 at the time 10
+Customer 26 ~34 ~ 4
+
+
+Queue 5 at the time 8
+Customer 47 ~34 ~ 4
+
+
+Queue 5 at the time 8
+Customer 47 ~34 ~ 4
+
+
+Queue 2 at the time 6
+
+
+Queue 4 at the time 4
+
+
+Queue 1 at the time 9
+Customer 40 ~35 ~ 2
+
+
+Queue 1 at the time 9
+Customer 40 ~35 ~ 2
+
+
+Queue 2 at the time 6
+
+
+Queue 2 at the time 6
+
+
+Queue 3 at the time 6
+
+
+Queue 3 at the time 6
+
+
+Queue 4 at the time 8
+Customer 46 ~38 ~ 4
+
+
+Queue 4 at the time 8
+Customer 46 ~38 ~ 4
+
+
+Queue 5 at the time 8
+Customer 47 ~34 ~ 4
+
+
+Queue 5 at the time 8
+Customer 47 ~34 ~ 4
+
+
+Queue 1 at the time 9
+Customer 40 ~35 ~ 2
+
+
+Queue 1 at the time 9
+Customer 40 ~35 ~ 2
+
+
+Queue 2 at the time 6
+
+
+Queue 2 at the time 6
+
+
+Queue 3 at the time 6
+
+
+Queue 3 at the time 6
+
+
+Queue 4 at the time 8
+Customer 46 ~38 ~ 4
+
+
+Queue 4 at the time 8
+Customer 46 ~38 ~ 4
+
+
+Queue 5 at the time 8
+Customer 47 ~34 ~ 4
+
+
+Queue 5 at the time 8
+Customer 47 ~34 ~ 4
+
+
+Queue 1 at the time 9
+Customer 40 ~35 ~ 2
+
+
+Queue 1 at the time 9
+Customer 40 ~35 ~ 2
+
+
+Queue 2 at the time 10
+Customer 11 ~39 ~ 4
+
+
+Queue 2 at the time 10
+Customer 11 ~39 ~ 4
+
+
+Queue 3 at the time 10
+Customer 42 ~39 ~ 4
+
+
+Queue 3 at the time 10
+Customer 42 ~39 ~ 4
+
+
+Queue 4 at the time 8
+Customer 46 ~38 ~ 4
+
+
+Queue 4 at the time 8
+Customer 46 ~38 ~ 4
+
+
+Queue 5 at the time 8
+Customer 47 ~34 ~ 4
+
+
+Queue 5 at the time 8
+Customer 47 ~34 ~ 4
+
+
+Queue 1 at the time 9
+Customer 40 ~35 ~ 2
+
+
+Queue 1 at the time 9
+Customer 40 ~35 ~ 2
+
+
+Queue 2 at the time 10
+Customer 11 ~39 ~ 4
+
+
+Queue 2 at the time 10
+Customer 11 ~39 ~ 4
+
+
+Queue 3 at the time 10
+Customer 42 ~39 ~ 4
+
+
+Queue 3 at the time 10
+Customer 42 ~39 ~ 4
+
+
+Queue 4 at the time 8
+Customer 46 ~38 ~ 4
+
+
+Queue 4 at the time 8
+Customer 46 ~38 ~ 4
+
+
+Queue 5 at the time 8
+Customer 47 ~34 ~ 4
+
+
+Queue 5 at the time 8
+Customer 47 ~34 ~ 4
+
+
+Queue 5 at the time 4
+
+
+Queue 1 at the time 9
+Customer 40 ~35 ~ 2
+
+
+Queue 1 at the time 9
+Customer 40 ~35 ~ 2
+
+
+Queue 2 at the time 10
+Customer 11 ~39 ~ 4
+
+
+Queue 2 at the time 10
+Customer 11 ~39 ~ 4
+
+
+Queue 3 at the time 10
+Customer 42 ~39 ~ 4
+
+
+Queue 3 at the time 10
+Customer 42 ~39 ~ 4
+
+
+Queue 4 at the time 8
+Customer 46 ~38 ~ 4
+
+
+Queue 4 at the time 8
+Customer 46 ~38 ~ 4
+
+
+Queue 5 at the time 4
+
+
+Queue 5 at the time 4
+
+
+Queue 1 at the time 9
+Customer 40 ~35 ~ 2
+
+
+Queue 1 at the time 9
+Customer 40 ~35 ~ 2
+
+
+Queue 2 at the time 10
+Customer 11 ~39 ~ 4
+
+
+Queue 2 at the time 10
+Customer 11 ~39 ~ 4
+
+
+Queue 3 at the time 10
+Customer 42 ~39 ~ 4
+
+
+Queue 3 at the time 10
+Customer 42 ~39 ~ 4
+
+
+Queue 4 at the time 8
+Customer 46 ~38 ~ 4
+
+
+Queue 4 at the time 8
+Customer 46 ~38 ~ 4
+
+
+Queue 5 at the time 4
+
+
+Queue 5 at the time 4
+
+
+Queue 1 at the time 9
+Customer 40 ~35 ~ 2
+
+
+Queue 1 at the time 9
+Customer 40 ~35 ~ 2
+
+
+Queue 2 at the time 10
+Customer 11 ~39 ~ 4
+
+
+Queue 2 at the time 10
+Customer 11 ~39 ~ 4
+
+
+Queue 3 at the time 10
+Customer 42 ~39 ~ 4
+
+
+Queue 3 at the time 10
+Customer 42 ~39 ~ 4
+
+
+Queue 4 at the time 8
+Customer 46 ~38 ~ 4
+
+
+Queue 4 at the time 8
+Customer 46 ~38 ~ 4
+
+
+Queue 5 at the time 4
+
+
+Queue 5 at the time 4
+
+
+Queue 1 at the time 9
+Customer 40 ~35 ~ 2
+
+
+Queue 1 at the time 9
+Customer 40 ~35 ~ 2
+
+
+Queue 2 at the time 10
+Customer 11 ~39 ~ 4
+
+
+Queue 2 at the time 10
+Customer 11 ~39 ~ 4
+
+
+Queue 3 at the time 10
+Customer 42 ~39 ~ 4
+
+
+Queue 3 at the time 10
+Customer 42 ~39 ~ 4
+
+
+Queue 4 at the time 8
+Customer 46 ~38 ~ 4
+
+
+Queue 4 at the time 8
+Customer 46 ~38 ~ 4
+
+
+Queue 5 at the time 4
+
+
+Queue 5 at the time 4
+
+
+Queue 1 at the time 2
+
+
+Queue 4 at the time 4
+
+
+Queue 1 at the time 2
+
+
+Queue 1 at the time 2
+
+
+Queue 2 at the time 10
+Customer 11 ~39 ~ 4
+
+
+Queue 2 at the time 10
+Customer 11 ~39 ~ 4
+
+
+Queue 3 at the time 10
+Customer 42 ~39 ~ 4
+
+
+Queue 3 at the time 10
+Customer 42 ~39 ~ 4
+
+
+Queue 4 at the time 4
+
+
+Queue 4 at the time 4
+
+
+Queue 5 at the time 4
+
+
+Queue 5 at the time 4
+
+
+Queue 1 at the time 2
+
+
+Queue 1 at the time 2
+
+
+Queue 2 at the time 10
+Customer 11 ~39 ~ 4
+
+
+Queue 2 at the time 10
+Customer 11 ~39 ~ 4
+
+
+Queue 3 at the time 10
+Customer 42 ~39 ~ 4
+
+
+Queue 3 at the time 10
+Customer 42 ~39 ~ 4
+
+
+Queue 4 at the time 4
+
+
+Queue 4 at the time 4
+
+
+Queue 5 at the time 4
+
+
+Queue 5 at the time 4
+
+
+Queue 1 at the time 2
+
+
+Queue 1 at the time 2
+
+
+Queue 2 at the time 10
+Customer 11 ~39 ~ 4
+
+
+Queue 2 at the time 10
+Customer 11 ~39 ~ 4
+
+
+Queue 3 at the time 10
+Customer 42 ~39 ~ 4
+
+
+Queue 3 at the time 10
+Customer 42 ~39 ~ 4
+
+
+Queue 4 at the time 4
+
+
+Queue 4 at the time 4
+
+
+Queue 5 at the time 4
+
+
+Queue 5 at the time 4
+
+
+Queue 3 at the time 4
+
+
+Queue 1 at the time 2
+
+
+Queue 1 at the time 2
+
+
+Queue 2 at the time 10
+Customer 11 ~39 ~ 4
+
+
+Queue 2 at the time 10
+Customer 11 ~39 ~ 4
+
+
+Queue 3 at the time 4
+
+
+Queue 3 at the time 4
+
+
+Queue 4 at the time 4
+
+
+Queue 4 at the time 4
+
+
+Queue 5 at the time 4
+
+
+Queue 5 at the time 4
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 4
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 4
+
+
+Queue 2 at the time 4
+
+
+Queue 3 at the time 4
+
+
+Queue 3 at the time 4
+
+
+Queue 4 at the time 4
+
+
+Queue 4 at the time 4
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 4
+
+
+Queue 2 at the time 4
+
+
+Queue 3 at the time 4
+
+
+Queue 3 at the time 4
+
+
+Queue 4 at the time 4
+
+
+Queue 4 at the time 4
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 4
+
+
+Queue 2 at the time 4
+
+
+Queue 3 at the time 4
+
+
+Queue 3 at the time 4
+
+
+Queue 4 at the time 4
+
+
+Queue 4 at the time 4
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 4
+
+
+Queue 2 at the time 4
+
+
+Queue 3 at the time 4
+
+
+Queue 3 at the time 4
+
+
+Queue 4 at the time 4
+
+
+Queue 4 at the time 4
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 4
+
+
+Queue 2 at the time 4
+
+
+Queue 3 at the time 4
+
+
+Queue 3 at the time 4
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 4
+
+
+Queue 2 at the time 4
+
+
+Queue 3 at the time 4
+
+
+Queue 3 at the time 4
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 4
+
+
+Queue 2 at the time 4
+
+
+Queue 3 at the time 4
+
+
+Queue 3 at the time 4
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 4
+
+
+Queue 2 at the time 4
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 1 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 2 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 3 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 4 at the time 0
+
+
+Queue 5 at the time 0
+
+
+Queue 5 at the time 0
