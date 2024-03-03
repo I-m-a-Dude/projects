@@ -1,0 +1,728 @@
+newmtl Meshpart37Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Meshpart37_diff.png
+map_Kd Meshpart37_diff.png
+map_d Meshpart37_diff.png
+
+newmtl Meshesrim371Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesrim371_diff.png
+map_Kd Meshesrim371_diff.png
+map_d Meshesrim371_diff.png
+
+newmtl Meshestire271Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Meshestire271_diff.png
+map_Kd Meshestire271_diff.png
+map_d Meshestire271_diff.png
+
+newmtl Meshpart28Mtl
+Material Color
+Ka 0.0277553 0.0277553 0.0277553
+Kd 0.0277553 0.0277553 0.0277553
+Ks 0.0166532 0.0166532 0.0166532 
+
+d 1
+
+Ns 0
+
+newmtl H2Mtl
+Material Color
+Ka 0.022013 0.022013 0.022013
+Kd 0.022013 0.022013 0.022013
+Ks 0.0132078 0.0132078 0.0132078 
+
+d 1
+
+Ns 0
+
+newmtl Meshescarbon21Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Meshescarbon21_diff.png
+map_Kd Meshescarbon21_diff.png
+map_d Meshescarbon21_diff.png
+
+newmtl Carbonfiber2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 0.901961
+
+Ns 0
+
+map_Ka Carbonfiber2_diff.png
+map_Kd Carbonfiber2_diff.png
+map_d Carbonfiber2_diff.png
+
+newmtl Meshescarbon11Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Meshescarbon11_diff.png
+map_Kd Meshescarbon11_diff.png
+map_d Meshescarbon11_diff.png
+
+newmtl Meshpart7Mtl
+Material Color
+Ka 0.00258583 0.00258583 0.00258583
+Kd 0.00258583 0.00258583 0.00258583
+Ks 0.0015515 0.0015515 0.0015515 
+
+d 0.301961
+
+Ns 0
+
+newmtl Meshesinterior81Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesinterior81_diff.png
+map_Kd Meshesinterior81_diff.png
+map_d Meshesinterior81_diff.png
+
+newmtl Meshessteeringwheel1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Meshessteeringwheel1_diff.png
+map_Kd Meshessteeringwheel1_diff.png
+map_d Meshessteeringwheel1_diff.png
+
+newmtl Mesheslogo31Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheslogo31_diff.png
+map_Kd Mesheslogo31_diff.png
+map_d Mesheslogo31_diff.png
+
+newmtl Meshpart4Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.224169 0.221155 0.230265 
+
+d 1
+
+Ns 0
+
+newmtl Meshpart27Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Meshpart27_diff.png
+map_Kd Meshpart27_diff.png
+map_d Meshpart27_diff.png
+
+newmtl Meshpart3Mtl
+Material Color
+Ka 0.0103978 0.0103978 0.0103978
+Kd 0.0103978 0.0103978 0.0103978
+Ks 0.00623868 0.00623868 0.00623868 
+
+d 1
+
+Ns 0
+
+newmtl Meshesfans1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesfans1_diff.png
+map_Kd Meshesfans1_diff.png
+map_d Meshesfans1_diff.png
+
+newmtl Meshesbelt1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesbelt1_diff.png
+map_Kd Meshesbelt1_diff.png
+map_d Meshesbelt1_diff.png
+
+newmtl Meshesblack101Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesblack101_diff.png
+map_Kd Meshesblack101_diff.png
+map_d Meshesblack101_diff.png
+
+newmtl Meshescarbon1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Meshescarbon1_diff.png
+map_Kd Meshescarbon1_diff.png
+map_d Meshescarbon1_diff.png
+
+newmtl Carbonfiber1Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00429302 0.0113478 0.0189308 
+
+d 1
+
+Ns 0
+
+newmtl Meshesdash131Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesdash131_diff.png
+map_Kd Meshesdash131_diff.png
+map_d Meshesdash131_diff.png
+
+newmtl Meshesdash211Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesdash211_diff.png
+map_Kd Meshesdash211_diff.png
+map_d Meshesdash211_diff.png
+
+newmtl Meshpart1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Meshpart1_diff.png
+map_Kd Meshpart1_diff.png
+map_d Meshpart1_diff.png
+
+newmtl Meshesgauge1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesgauge1_diff.png
+map_Kd Meshesgauge1_diff.png
+map_d Meshesgauge1_diff.png
+
+newmtl Meshesinterior521Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesinterior521_diff.png
+map_Kd Meshesinterior521_diff.png
+map_d Meshesinterior521_diff.png
+
+newmtl Meshesinterior411Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesinterior411_diff.png
+map_Kd Meshesinterior411_diff.png
+map_d Meshesinterior411_diff.png
+
+newmtl Meshesinterior161Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesinterior161_diff.png
+map_Kd Meshesinterior161_diff.png
+map_d Meshesinterior161_diff.png
+
+newmtl Mesheswipers11Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheswipers11_diff.png
+map_Kd Mesheswipers11_diff.png
+map_d Mesheswipers11_diff.png
+
+newmtl Meshesxz1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesxz1_diff.png
+map_Kd Meshesxz1_diff.png
+map_d Meshesxz1_diff.png
+
+newmtl Meshesfans11Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesfans11_diff.png
+map_Kd Meshesfans11_diff.png
+map_d Meshesfans11_diff.png
+
+newmtl Meshesmirrors11Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesmirrors11_diff.png
+map_Kd Meshesmirrors11_diff.png
+map_d Meshesmirrors11_diff.png
+
+newmtl Mesheslight81Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheslight81_diff.png
+map_Kd Mesheslight81_diff.png
+map_d Mesheslight81_diff.png
+
+newmtl Meshpart29Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Meshpart29_diff.png
+map_Kd Meshpart29_diff.png
+map_d Meshpart29_diff.png
+
+newmtl Meshessus1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Meshessus1_diff.png
+map_Kd Meshessus1_diff.png
+map_d Meshessus1_diff.png
+
+newmtl Meshespart11Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Meshespart11_diff.png
+map_Kd Meshespart11_diff.png
+map_d Meshespart11_diff.png
+
+newmtl Meshespart21Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Meshespart21_diff.png
+map_Kd Meshespart21_diff.png
+map_d Meshespart21_diff.png
+
+newmtl Meshesffr31Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesffr31_diff.png
+map_Kd Meshesffr31_diff.png
+map_d Meshesffr31_diff.png
+
+newmtl Meshesinatakes1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesinatakes1_diff.png
+map_Kd Meshesinatakes1_diff.png
+map_d Meshesinatakes1_diff.png
+
+newmtl Meshesroof21Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesroof21_diff.png
+map_Kd Meshesroof21_diff.png
+map_d Meshesroof21_diff.png
+
+newmtl Meshpart14Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 0.752941
+
+Ns 0
+
+map_Ka Carbonfiber2_diff.png
+map_Kd Carbonfiber2_diff.png
+map_d Carbonfiber2_diff.png
+
+newmtl Meshesrlight1Mtl
+Material Color
+Ka 0.180144 0 0
+Kd 0.180144 0 0
+Ks 0.108087 0 0 
+
+d 0.4
+
+Ns 0
+
+map_Ka Mesheswindow21_diff.png
+map_Kd Mesheswindow21_diff.png
+map_d Mesheswindow21_diff.png
+
+map_Bump Mesheswindow21_nmap.png
+
+map_Ns Mesheswindow21_spec.png
+
+newmtl Mesheswindow111Mtl
+Material Color
+Ka 0.00258583 0.00258583 0.00258583
+Kd 0.00258583 0.00258583 0.00258583
+Ks 0.0015515 0.0015515 0.0015515 
+
+d 1
+
+Ns 0
+
+newmtl Mesheslight341Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheslight341_diff.png
+map_Kd Mesheslight341_diff.png
+map_d Mesheslight341_diff.png
+
+newmtl Meshesunderbody91Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesunderbody91_diff.png
+map_Kd Meshesunderbody91_diff.png
+map_d Meshesunderbody91_diff.png
+
+newmtl Meshpart5Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Meshpart5_diff.png
+map_Kd Meshpart5_diff.png
+map_d Meshpart5_diff.png
+
+newmtl Meshpart2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Meshpart2_diff.png
+map_Kd Meshpart2_diff.png
+map_d Meshpart2_diff.png
+
+newmtl Mesheswindow21Mtl
+Material Color
+Ka 0.00258583 0.00258583 0.00258583
+Kd 0.00258583 0.00258583 0.00258583
+Ks 0.0015515 0.0015515 0.0015515 
+
+d 0.2
+
+Ns 0
+
+map_Ka Mesheswindow21_diff.png
+map_Kd Mesheswindow21_diff.png
+map_d Mesheswindow21_diff.png
+
+map_Bump Mesheswindow21_nmap.png
+
+map_Ns Mesheswindow21_spec.png
+
+newmtl Color1Mtl
+Material Color
+Ka 0.867136 0.487765 0.0356144
+Kd 0.867136 0.487765 0.0356144
+Ks 0.520281 0.292659 0.0213686 
+
+d 1
+
+Ns 0
+
+newmtl Meshpart34Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Meshpart34_diff.png
+map_Kd Meshpart34_diff.png
+map_d Meshpart34_diff.png
+
+newmtl Mesheslight231Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheslight231_diff.png
+map_Kd Mesheslight231_diff.png
+map_d Mesheslight231_diff.png
+
+newmtl Mesheswindshield21Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheswindshield21_diff.png
+map_Kd Mesheswindshield21_diff.png
+map_d Mesheswindshield21_diff.png
+
+newmtl Meshesinterior231Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesinterior231_diff.png
+map_Kd Meshesinterior231_diff.png
+map_d Meshesinterior231_diff.png
+
+newmtl Mesheslight161Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheslight161_diff.png
+map_Kd Mesheslight161_diff.png
+map_d Mesheslight161_diff.png
+
+newmtl Meshesmm121Mtl
+Material Color
+Ka 0.0384727 0.0384727 0.0384727
+Kd 0.0384727 0.0384727 0.0384727
+Ks 0.0230836 0.0230836 0.0230836 
+
+d 1
+
+Ns 0
+

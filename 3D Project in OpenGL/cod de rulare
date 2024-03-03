@@ -1,0 +1,1 @@
+g++ *.cpp -o demo -std=c++11 -Wall -I/usr/include -I/usr/include/glm -L/usr/lib -lGL -lGLU -lGLEW -lglfw -lX11 -lXxf86vm -lXi -ldl -lXinerama -lXcursor -lm
